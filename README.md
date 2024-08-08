@@ -1,3 +1,3 @@
-# Basic Todo List App using React JS
+# Basic Todo List App (React JS)
 
-Hi
+* Github Link : [Link](https://chloeyun.github.io/TodoList_js/)
